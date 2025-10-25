@@ -27,7 +27,7 @@ The program uses nested loops to create two main sections:
 
 1. Compile the program:
 ```bash
-g++ -o butterfly higga.cpp
+g++ -o butterfly ButterflyPrintingPattern.cpp
 ```
 
 2. Run the executable:
